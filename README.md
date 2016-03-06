@@ -47,10 +47,15 @@ I plan to sometime make this a standalone library in which you would not need to
 #Q&A
 
 * __How long are you going to update this?__
+* 
   I will attempt to update it whenever i have the time, it is currently hard for me due to ACTs coming up.
+
 * __I still don't get it, can you help me out?__
+* 
   If I find the time, yes, message me on V3rmillion. @Cydrav
+
 * __Can I Donate?__
+* 
   Yeah! If you feel the need to donate, again, private message me on v3rm and I will give you a paypal email to send it to.
 
 
