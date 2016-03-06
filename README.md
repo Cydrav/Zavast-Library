@@ -5,22 +5,22 @@ This is a library of C++ functions dedicated to exploiting vulnerabilites within
 #Current Functionality
 
 The current working functions as of 3/6/2016 are
-  * Get Functions (for getting values of certain variables)
-        * getRobloxLocked(int self)
-        * getGlobalShadows(int self)
-        * getAnchored(int self)
-  * Humanoid Functions (for editing properties of the humanoid)
-        * setWalkspeed(int sel, float Walkspeed)
-        * setNameDisplayDistance(int sel, float Distance)
-        * setNameOcclusion(int sel, int Occlusion)
-  * Generic instance modifiers (setters)
-        * setAnchored(int sel, bool isAnchored)
-        * setTransparency(int sel, float transparency)
-        * setShadowColor(int sel, int color, int color2, int color3)
-        * setWaterColor(int sel, int color, int color2, int color3)
-        * setTeamColor(int sel, int color)
-        * setGlobalShadows(int sel, bool isGS)
-        + MORE TO COME!
+  1. Get Functions (for getting values of certain variables)
+  * getRobloxLocked(int self)
+  * getGlobalShadows(int self)
+  * getAnchored(int self)
+  2. Humanoid Functions (for editing properties of the humanoid)
+  * setWalkspeed(int sel, float Walkspeed)
+  * setNameDisplayDistance(int sel, float Distance)
+  * setNameOcclusion(int sel, int Occlusion)
+  3. Generic instance modifiers (setters)
+  * setAnchored(int sel, bool isAnchored)
+  * setTransparency(int sel, float transparency)
+  * setShadowColor(int sel, int color, int color2, int color3)
+  * setWaterColor(int sel, int color, int color2, int color3)
+  * setTeamColor(int sel, int color)
+  * setGlobalShadows(int sel, bool isGS)
+        	+ MORE TO COME!
 
 #Example Usage
 
